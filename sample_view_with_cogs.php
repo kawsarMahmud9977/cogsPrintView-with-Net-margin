@@ -326,7 +326,7 @@ $wdo = find_all_field_sql($ssql);
 
                               <tr>
 
-                                <td><?php echo $datas->do_status; ?>&nbsp;</td>
+                                <td><?php echo $datas->status; ?>&nbsp;</td>
 
                               </tr>
 
